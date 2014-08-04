@@ -1,0 +1,115 @@
+.section-heading {
+	font-family: Calibri, sans-serif;
+	text-align: center;
+}
+
+#name {
+	font-family: Georgia, Times, serif;
+	color:#8B0000;
+	font-size:15px;
+	text-decoration:underline;
+	font-weight:bolder;
+	position:fixed;
+	z-index: 1;
+	border-top:5px double #008080;
+	border-bottom:5px double #008080;
+	margin: 0 0 40px 0;
+	height:auto;
+	width:100%;
+	background-color:#E0FFFF;
+	padding:none;
+	float:left;
+	text-align: center;
+}
+
+#professional-experience {
+	border:3px double #008080;
+	border-radius:15px;
+	margin: 50px 50px 15px 20px;
+	height: 600px;
+	width:85%;
+	background-color:#98FB98;
+	text-align: justify;
+	position:relative;
+	padding:25px;
+}
+
+#education {
+	border:3px dotted #008080;
+	border-radius:50%;
+	margin:10px 5px 15px 35px;
+	height: 300px;
+	width:45%;
+	background-color:#FFA07A;
+	float:left;
+	text-align: center;
+	position:relative;
+}
+
+#interests {
+	border:3px dotted #008080;
+	border-radius:50%;
+	margin:10px 35px 15px 5px;
+	height: 300px;
+	width:45%;
+	background-color:#FFA07A;
+	float:right;
+	text-align: center;
+	position:relative;
+}
+
+#footer {
+	color:#B22222;
+	font-family: Georgia, Times, serif;
+	position:fixed;
+	border-top:5px double #008080;
+	border-bottom:5px double #008080;
+	margin:25px 0 25px 0;
+	height:auto;
+	width: 100%;
+	background-color:#E0FFFF;
+	text-align: center;
+	padding-top: 8px;
+	font-size:12px;
+}
+
+#background {
+	background-color:#AFEEEE;
+}
+
+
+li {
+	text-align: justify;
+	font-family:Verdana;
+}
+
+.dates {
+	font-family: Vivaldi, Papyrus, cursive;
+	color:#2F4F4F;
+	text-align: center;
+}
+
+h4 {
+	color:#191970;
+	font-family: Californian, Garamond;
+	text-align: center;
+}
+
+a:link {
+	color:#DC143C;
+	text-decoration: none;
+}
+a:visited {
+	color:#FF4500;
+	text-decoration: none;
+	font:italic, 12px, Lucida, Century,sans-serif;
+}
+a:hover {
+	color:#006400;
+	text-decoration: bold, underline;
+}
+
+.school-details {
+	font-family:Verdana;
+}
+
